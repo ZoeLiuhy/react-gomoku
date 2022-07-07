@@ -1,11 +1,11 @@
 # Gomoku/ Gobang/ 五子棋
 
 ## Contents
-- [Introduction](https://github.com/zoeliuhy/react-gomoku/edit/main/README.md#introduction)
-- [Demo](https://github.com/zoeliuhy/react-gomoku/edit/main/README.md#demo)
-- [Tech](https://github.com/zoeliuhy/react-gomoku/edit/main/README.md#tech)
-- [Setup Locally](https://github.com/zoeliuhy/react-gomoku/edit/main/README.md#setup-locally)
-- [Structure](https://github.com/zoeliuhy/react-gomoku/edit/main/README.md#structure)
+- [Introduction](https://github.com/zoeliuhy/react-gomoku#introduction)
+- [Demo](https://github.com/zoeliuhy/react-gomoku#demo)
+- [Tech](https://github.com/zoeliuhy/react-gomoku#tech)
+- [Setup Locally](https://github.com/zoeliuhy/react-gomoku#setup-locally)
+- [Structure](https://github.com/zoeliuhy/react-gomoku#structure)
 
 ## Introduction
 This is a well-known game named **Gomoku** or **Gobang**. The winner is the player who can firstly form an unbroken chain of five stones horizontally, vertically, or diagonally. It's also known as **five in a row**.
